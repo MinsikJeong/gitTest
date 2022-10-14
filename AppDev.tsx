@@ -10,13 +10,11 @@
 
 import React, {type PropsWithChildren} from 'react';
 import {Text, View} from 'react-native';
-import AppDev from './AppDev';
 
-export default function App() {
+export default function AppDev() {
   return (
     <View>
-      <Text>{'Hello World!'}</Text>
-      <AppDev />
+      <Text>{'Hello Babo!'}</Text>
     </View>
   );
 }
