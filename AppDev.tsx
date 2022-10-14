@@ -14,7 +14,7 @@ import {Text, View} from 'react-native';
 export default function AppDev() {
   return (
     <View>
-      <Text>{'Hello Babo!'}</Text>
+      <Text>{'Hello Baboafasdfasd!'}</Text>
     </View>
   );
 }
